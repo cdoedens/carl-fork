@@ -1,16 +1,15 @@
 <img src="thumbnail.png" alt="thumbnail" width="300"/>
 
-# MCC clouds
+# Cape-K MCC Clouds - Meteorology Cookbook
 
 [![nightly-build](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/cookbook-template/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/cookbook-template/main?labpath=notebooks)
 [![DOI](https://zenodo.org/badge/475509405.svg)](https://zenodo.org/badge/latestdoi/475509405)
 
-This Project Pythia Cookbook covers ... (replace `...` with the main subject of your cookbook ... e.g., _working with radar data in Python_)
 
 ## Motivation
 
-We are interested in exploring the aerosols, preciptation and meteorlogical factors on MCC clouds
+We are interested in the meteorology of CCN clouds (open and closed) over the Southern Ocean, with data taken from Cape-K. 
 
 ## Authors
 
