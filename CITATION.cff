@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "If you use this cookbook, please cite it as below."
 authors:
-- family-name: Tomasiuk
-  given-name: Emily
-  orcid: 0009-0009-9852-2811
-  affiliation: University of Melbourne
-- family-name: Alinejadtabrizi
-  given-name: Tahereh (Nasim)
-  orcid: 0000-0002-8526-697X
-  affiliation: Monash University
+family-name: Tomasiuk
+given-name: Emily
+orcid: 0009-0009-9852-2811
+affiliation: University of Melbourne
+family-name: Alinejadtabrizi
+given-name: Tahereh (Nasim)
+orcid: 0000-0002-8526-697X
+affiliation: Monash University
   - name: "Cookbook Template contributors" # use the 'name' field to acknowledge organizations
     website: "https://github.com/ProjectPythia/cookbook-template/graphs/contributors"
 title: "Cookbook Template"
